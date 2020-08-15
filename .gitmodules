@@ -1,0 +1,30 @@
+[submodule "mvsfunc"]
+	path = mvsfunc
+	url = https://github.com/HomeOfVapourSynthEvolution/mvsfunc.git
+[submodule "havsfunc"]
+	path = havsfunc
+	url = https://github.com/HomeOfVapourSynthEvolution/havsfunc.git
+[submodule "vsTAAmbk"]
+	path = vsTAAmbk
+	url = https://github.com/HomeOfVapourSynthEvolution/vsTAAmbk.git
+[submodule "CSMOD"]
+	path = CSMOD
+	url = https://github.com/fdar0536/VapourSynth-Contra-Sharpen-mod.git
+[submodule "pmsfunc"]
+	path = pmsfunc
+	url = https://github.com/Palladiawa/pmsfunc.git
+[submodule "nnedi3_resample"]
+	path = nnedi3_resample
+	url = https://github.com/mawen1250/VapourSynth-script.git
+[submodule "fvsfunc"]
+	path = fvsfunc
+	url = https://github.com/Irrational-Encoding-Wizardry/fvsfunc.git
+[submodule "kagefunc"]
+	path = kagefunc
+	url = https://github.com/Irrational-Encoding-Wizardry/kagefunc.git
+[submodule "lvsfunc"]
+	path = lvsfunc
+	url = https://github.com/Irrational-Encoding-Wizardry/lvsfunc.git
+[submodule "insaneAA"]
+	path = insaneAA
+	url = https://github.com/Beatrice-Raws/VapourSynth-insaneAA.git
