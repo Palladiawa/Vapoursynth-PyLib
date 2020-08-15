@@ -1,6 +1,6 @@
-from CSMOD				import CSMOD
-from havsfunc			import havsfunc 		as haf 
-from mvsfunc			import mvsfunc 			as mvf 
-from nnedi3_resample	import nnedi3_resample	as nnrs 
-from vsTAAmbk			import vsTAAmbk			as taa 
-from pmsfunc			import pmsfunc			as pmf 
+import vslib.CSMOD
+import vslib.havsfunc as haf 
+import vslib.mvsfunc as mvf 
+import vslib.nnedi3_resample as nnrs 
+import vslib.pmsfunc as pmf 
+import vslib.vsTAAmbk as taa
