@@ -28,3 +28,6 @@
 [submodule "insaneAA"]
 	path = insaneAA
 	url = https://github.com/Beatrice-Raws/VapourSynth-insaneAA.git
+[submodule "adjust"]
+	path = adjust
+	url = https://github.com/dubhater/vapoursynth-adjust.git
